@@ -4,6 +4,9 @@
 ![Stars](https://img.shields.io/github/stars/FabioWlademir/investigacao-incidente-rede-domestica?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/FabioWlademir/investigacao-incidente-rede-domestica)
 
+> Um guia acessível e técnico para detectar intrusões em redes domésticas, proteger dispositivos e gerar relatórios completos com base em ferramentas gratuitas.
+
+
 # 🔍 Investigação de Incidente em Rede Doméstica – Guia Prático
 
 Este repositório apresenta um passo a passo prático e acessível para ajudar usuários e profissionais de segurança a investigarem **possíveis invasões em redes domésticas**, com foco em dispositivos como notebooks, celulares, TVs e roteadores Wi-Fi.
