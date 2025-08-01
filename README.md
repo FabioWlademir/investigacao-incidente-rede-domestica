@@ -171,7 +171,7 @@ Sinta-se livre para usar, adaptar e compartilhar com atribuição.
 Especialista em TI • NOC • SOC • Segurança Digital • Automação com IA
 
 🔗 [Blog Técnico - F2 Suporte](https://f2suporte.blogspot.com/search/label/SOC%20e%20NOC)
-🔗 [LinkedIn](https://www.linkedin.com/in/fabio-wlademir)
+🔗 [LinkedIn](https://www.linkedin.com/in/fabiowlademir)
 🔗 [GitHub](https://github.com/FabioWlademir)
 
 ---
