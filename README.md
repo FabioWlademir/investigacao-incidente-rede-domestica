@@ -1,6 +1,14 @@
+# Diagnóstico técnico e segurança em redes domésticas • Passo a passo com ferramentas gratuitas e profissionais
+
+![MIT License](https://img.shields.io/github/license/FabioWlademir/investigacao-incidente-rede-domestica)
+![Stars](https://img.shields.io/github/stars/FabioWlademir/investigacao-incidente-rede-domestica?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/FabioWlademir/investigacao-incidente-rede-domestica)
+
 # 🔍 Investigação de Incidente em Rede Doméstica – Guia Prático
 
 Este repositório apresenta um passo a passo prático e acessível para ajudar usuários e profissionais de segurança a investigarem **possíveis invasões em redes domésticas**, com foco em dispositivos como notebooks, celulares, TVs e roteadores Wi-Fi.
+cybersecurity, home-network, malware-analysis, incident-response, pentest, nmap, wireshark, soc, noc, router-security
+
 
 > ✅ Ideal para profissionais de **Suporte Técnico**, **Cibersegurança Doméstica**, **SOC/NOC**, ou consultorias especializadas.
 
