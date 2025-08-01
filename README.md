@@ -15,6 +15,20 @@ cybersecurity, home-network, malware-analysis, incident-response, pentest, nmap,
 
 > ✅ Ideal para profissionais de **Suporte Técnico**, **Cibersegurança Doméstica**, **SOC/NOC**, ou consultorias especializadas.
 
+## 📚 Índice
+
+- [1. Entendimento do Contexto](#️-1-entendimento-do-contexto-e-coleta-inicial)
+- [2. Análise da Infraestrutura de Rede](#-2-análise-da-infraestrutura-de-rede)
+- [3. Análise de Dispositivos](#-3-análise-de-dispositivos-tvs-notebooks-celulares)
+- [4. Teste de Vulnerabilidades](#-4-teste-de-vulnerabilidades)
+- [5. Relatório Técnico](#-5-relatório-técnico)
+- [Ferramentas Gratuitas](#-ferramentas-gratuitas-listadas)
+- [Considerações Éticas](#️-considerações-éticas)
+- [Licença](#-licença)
+- [Autor](#-autor)
+- [Outros Projetos](#-veja-também-meus-outros-projetos)
+
+
 ---
 
 ## 🛡️ 1. Entendimento do Contexto e Coleta Inicial
